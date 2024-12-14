@@ -5,3 +5,8 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/off-shadow.lua"))()
 ```
 ***
+*falling_into_a_ditch_simulator.lua*
+└ **Script for "Falling into a Ditch Simulator". Functions: Autofarm.**
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v2/falling_into_a_ditch_simulator.lua"))()
+```
