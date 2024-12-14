@@ -17,3 +17,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/u
 loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/go-up.lua"))()
 ```
 ***
+*war_tycoon.lua*  
+└ **Script for War Tycoon. Can teleport to each of the three oil barrels and to the capture point. The menu cannot be moved.**
+```
+https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v2/falling_into_a_ditch_simulator.lua
+```
+***
