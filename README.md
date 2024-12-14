@@ -11,3 +11,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/u
 loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v2/falling_into_a_ditch_simulator.lua"))()
 ```
 ***
+*go-up.lua*  
+└ **After launch, you will be teleported to a height higher than your current one by 1000. Below you will be a 50x50 square of dark color.**
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/go-up.lua"))()
+```
+***
