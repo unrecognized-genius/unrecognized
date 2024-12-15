@@ -23,3 +23,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/u
 loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v2/war_tycoon.lua"))()
 ```
 ***
+*unrecognized_universal.lua*  
+└ **Universal scenario. Functions: ESP box, ESP name and more...**
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/unrecognized-universal.lua"))()
+```
+***
