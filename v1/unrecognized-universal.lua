@@ -3,7 +3,7 @@ local player = game.Players.LocalPlayer
 local function onCharacterAdded(character)
     local gui = player.PlayerGui:FindFirstChild("MenuGui")
     if not gui then
-        local newGui = script.YourGui:Clone()
+        local newGui = script.MenuGui:Clone()
         newGui.Parent = player.PlayerGui
     end
 end
