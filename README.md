@@ -1,4 +1,7 @@
 # Scripts for Roblox
+***
+***Here you will find scripts for different modes in Roblox. You can use them to create your own scripts.***
+***
 *off-shadow.lua*  
 └ **Script to disable shadows, fog effect, etc. It can be used in 3008 mode to turn off shadows, especially effective at night. Works in other modes too.**
 ```
