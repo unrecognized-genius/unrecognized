@@ -25,7 +25,7 @@ textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 textLabel.TextTransparency = 0.2
 textLabel.TextScaled = true
 textLabel.Font = Enum.Font.SourceSansBold
-textLabel.Text = "Координаты: X: 0 | Y: 0 | Z: 0"
+textLabel.Text = "Coordinates: X: 0 | Y: 0 | Z: 0"
 textLabel.Parent = frame
 
 local function updateCoordinates()
@@ -33,7 +33,7 @@ local function updateCoordinates()
     local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
     while true do
         local position = humanoidRootPart.Position
-        textLabel.Text = string.format("Координаты:\nX: %.1f\nY: %.1f\nZ: %.1f", position.X, position.Y, position.Z)
+        textLabel.Text = string.format("Coordinates:\nX: %.1f\nY: %.1f\nZ: %.1f", position.X, position.Y, position.Z)
         wait(0.1)
     end
 end
