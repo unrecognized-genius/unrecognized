@@ -29,3 +29,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/u
 loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/unrecognized-universal.lua"))()
 ```
 ***
+*show-my-coordinates.lua*  
+└ **The script shows your current coordinates. Upon death, the coordinates are no longer updated.**
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/show-my-coordinates.lua"))()
+```
+***
