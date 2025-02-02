@@ -38,3 +38,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/u
 loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/show-my-coordinates.lua"))()
 ```
 ***
+*optimization.lua*  
+└ **This script optimizes the game by removing unnecessary effects. Suitable for all modes.**
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unrecognized-genius/unrecognized/refs/heads/main/v1/optimization.lua"))()
+```
+***
